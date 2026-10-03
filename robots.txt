@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-cc9fc59e2d.tengyuanjituan.cn/sitemap.xml
